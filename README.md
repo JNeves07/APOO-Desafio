@@ -1,4 +1,4 @@
-# Avaliação Prática — Análise e Projeto Orientado a Objetos (3º período)
+# APOO-Desafio
 
 Solução em **C# / .NET 10** para a avaliação prática de APOO cujo material original é um ZIP com três imagens (`1questao.png`, `questão 2.png` e `questão 3.png`). As imagens foram extraídas e preservadas integralmente em [`docs/original/`](docs/original/); o ZIP original permanece na raiz do repositório.
 
